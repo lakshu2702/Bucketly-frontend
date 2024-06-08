@@ -18,10 +18,6 @@
 - **CSS:** For styling and making the app visually appealing.
 - **JavaScript:** For implementing functionality and interactivity.
 
-## Project Details
-
-This project represents the frontend component of the full stack Bucketly web app, developed by the GDSC MVJCE Tech Team. It serves as an educational tool to be taught in the frontend workshop conducted by GDSC MVJCE.
-
 ## Installation and Usage
 
 To run this project locally, follow these steps:
@@ -40,29 +36,12 @@ To run this project locally, follow these steps:
    ```
    or simply double-click on the `index.html` file.
 
-## Authors
-
-[@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
-
-## Contribution
-
-We welcome contributions to improve this project. If you have suggestions or find any issues, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
-- Developed by the **GDSC MVJCE Tech Team**.
+- Developed under the guidance of **GDSC MVJCE Tech Team**.
 - Special thanks to all the contributors and workshop participants.
 
 ## Contact
-
-For more information, please reach out to us at [gdscmvjce@example.com](mailto:gdscmvjce@example.com).
-
----
-
 Thank you for using Bucketly! We hope this project inspires you to explore and achieve your travel dreams. Happy traveling! 🌍✈️
 
 ## Data
